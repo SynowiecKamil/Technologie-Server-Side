@@ -8,15 +8,15 @@ Zawiera:
 
 -widoki JSP z wykorzystaniem JSTL
 
-- sterowanie aplikacją za pomocą servletu kontrolującego działanie aplikacji
+-sterowanie aplikacją za pomocą servletu kontrolującego działanie aplikacji
 
-- operacje/polecenia CRUD
+-operacje/polecenia CRUD
 
 -komunikacja z bazą danych MYSQL
 
-- technologię WebSocket i komunikację z gniazdami sieciowymi
+-technologię WebSocket i komunikację z gniazdami sieciowymi
 
-- zabezpieczenie zasobów aplikacji za pomocą mechanizmów serwera Tomcat
+-zabezpieczenie zasobów aplikacji za pomocą mechanizmów serwera Tomcat
 
   - mechanizm (logowanie/wylogowanie)
   
@@ -24,6 +24,6 @@ Zawiera:
   
   - WebSocket - zabezpieczenie protokołem WSS 
   
-- dane autoryzacyjne/uwierzytelniające w bazie danych - baza MSSQL
+-dane autoryzacyjne/uwierzytelniające w bazie danych - baza MSSQL
 
-- szyfrowanie transmisji za pomocą SSL
+-szyfrowanie transmisji za pomocą SSL
