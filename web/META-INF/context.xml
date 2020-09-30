@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/WebApplication4KS">
+    <Resource name="jdbc/MyDB" 
+      global="jdbc/MyDB" 
+      auth="Container" 
+      type="javax.sql.DataSource" 
+      driverClassName="com.mysql.jdbc.Driver" 
+      url="jdbc:mysql://remotemysql.com:3306/sgJOMD6tVQ" 
+      username="sgJOMD6tVQ" 
+      password="rOAFWSL4L0" 
+      
+      maxActive="100" 
+      maxIdle="20" 
+      minIdle="5" 
+      maxWait="10000"/>
+</Context>
